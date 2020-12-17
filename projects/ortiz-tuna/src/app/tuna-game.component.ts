@@ -17,6 +17,6 @@ export class TunaGameComponent implements AfterViewInit {
 
 
   ngAfterViewInit(): void {
-    gsap.to(this.ladyHeroe.nativeElement, {scale: 5, yoyo: true, duration: 2, ease: 'bounce'});
+    // gsap.to(this.ladyHeroe.nativeElement, {scale: 5, yoyo: true, duration: 2, ease: 'bounce'});
   }
 }
