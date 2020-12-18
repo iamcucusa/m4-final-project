@@ -16,7 +16,7 @@ import {Power2, TimelineMax} from 'gsap';
             La mejor calidad gracias al respeto de las artes de pesca tradicionales, resultando en el exquisito sabor e inconfundible textura que marcan la diferencia en nuestros productos.
         </span>
 
-        <a href="https://www.conservasortiz.com/productos/" class="ot-tile1-action">Compra aqui
+        <a href="https://www.conservasortiz.com/productos/" target="_blank" class="ot-tile1-action">Compra aqui
         </a>
       </div>
 
