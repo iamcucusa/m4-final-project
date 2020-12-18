@@ -16,7 +16,6 @@ export class TilePromoComponent implements OnInit {
 
 
   openTunaGame(): void {
-    this.router.navigate(['tuna-game']);
 
   }
 
